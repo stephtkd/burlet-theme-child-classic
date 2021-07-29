@@ -1,0 +1,56 @@
+@import url('https://fonts.googleapis.com/css2?family=Josefin+Sans:wght@500&family=Josefin+Slab&display=swap');
+#_desktop_logo {
+    text-align: center;
+}
+
+
+/* Personnalisation du logo en mode "mobile" */
+
+#header .logo {
+    max-width: 450px;
+}
+
+
+/* Personnalisation du logo en mode "mobile" */
+
+#header .header-nav .top-logo a img {
+    max-width: 60%;
+}
+
+
+/* centrer le menu */
+
+#header .header-top .position-static {
+    text-align: center;
+}
+
+
+/* Police par défaut pour les pages cms et taille */
+
+
+/* .page-content.page-cms p{
+    font-size: 18pt;
+}
+*/
+
+
+/* Modification des polices par défaut */
+
+body {
+    font-family: 'Josefin Sans', sans-serif;
+}
+
+.h1,
+.h2,
+.h3,
+.h4,
+.h5,
+.h6,
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+    font-family: 'Josefin Slab', serif;
+}
