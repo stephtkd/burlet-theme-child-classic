@@ -16,6 +16,9 @@ Ensuite, on peut l'installer
 
 
 ## Historique des versions ##
+- v 1.0.1  
+Modification du nom d'auteur, email et URL, et preview.png
+
 - v 1.0.0  
 Logo centré  
 menu centré (à peu près)  

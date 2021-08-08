@@ -1,6 +1,11 @@
 parent: classic
 name: burlet-theme-child-classic
 display-name: Thème Burlet - enfant du thème classic
-version: 1.0.0
+version: 1.0.1
+author:
+  name: "Stéphane Burlet"
+  email: "stephtkd@yahoo.fr"
+  url: "https://github.com/stephtkd/burlet-theme-child-classic"
+
 assets:
     use_parent_assets: true
