@@ -16,6 +16,9 @@ Ensuite, on peut l'installer
 
 
 ## Historique des versions ##
+- v 1.0.2  
+Modification de la taille du menu (col-md-11 => col-md-12) poru éviter un retour à la ligne avec un grand écran
+
 - v 1.0.1  
 Modification du nom d'auteur, email et URL, et preview.png
 

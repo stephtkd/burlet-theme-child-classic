@@ -44,7 +44,7 @@
             {/if}
         </div>
 {*AVANT modif pour avoir un menu sur 1 seule ligne        <div class="col-md-10 col-sm-12 position-static"> *}
-        <div class="col-md-11 col-sm-12 position-static">
+        <div class="col-md-12 col-sm-12 position-static">
           {hook h='displayTop'}
           <div class="clearfix"></div>
         </div>
